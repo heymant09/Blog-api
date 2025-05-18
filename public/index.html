@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Simple Blog</h1>
+  <div id="login">
+    <input type="text" id="username" placeholder="Username">
+    <input type="password" id="password" placeholder="Password">
+    <button onclick="login()">Login</button>
+  </div>
+  <div id="post-form" style="display: none;">
+    <input type="text" id="title" placeholder="Post Title">
+    <textarea id="content" placeholder="Post Content"></textarea>
+    <button onclick="createPost()">Add Post</button>
+  </div>
+  <div id="posts"></div>
+  <script src="script.js"></script>
+</body>
+</html>

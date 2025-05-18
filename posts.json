@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hero Hoon Mai",
+      "content": "Mai hoon Hemu don!! Is duniya ka rakhwala",
+      "date": "2025-03-27T18:17:30.280Z"
+    },
+    {
+      "id": 2,
+      "title": "Yeh 2nd Blog post hai meri",
+      "content": "Aaj CRT ka first day tha bhai and it was tiring ",
+      "date": "2025-03-28T13:40:33.358Z"
+    },
+    {
+      "id": 4,
+      "title": "This is our third post",
+      "content": "Try kar rahe hai",
+      "date": "2025-04-04T00:26:54.376Z"
+    }
+  ]
+}
